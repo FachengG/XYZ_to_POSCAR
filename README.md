@@ -4,7 +4,7 @@ When using it trnasfer 3D/2D material from xyz to POSCAR, be careful.
 ## Feature
 1. The molecule recentered at the box's center.
 2. Transfer multi xyz files to POSCAR files at one time.
-3. No need for install any python library. 
+3. Independent: does not require any python library. 
 4. Easy to use.
 # How to use the code:
 1. Put the xyz files in the same folder with this script.
